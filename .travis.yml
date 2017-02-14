@@ -2,8 +2,8 @@ language: node_js
 node_js: node
 deploy:
   provider: heroku
-  app: shrouded-ravine-93286
+  app: limitless-taiga-31487
   on:
-    repo: matthewreed26/limitless-taiga-31487
+    repo: matthewreed26/node-shopping-list-integration-tests
   api_key:
     secure: ehO/DOwDCQ7s4e8L9ChouTleyE0whcGARm2wmvIsZwPpPfUmiLAnMcHXDJUdkEX++oDfnIpNt+QMVaaWgZPpUBh0UPnwx12gEcqJXTVK9dWgp46kvapb3GoVpR8R5QJLlHNHzaNdJ44ZpQk4veRZ0B66fKn7ra6UohhZx9YU7VEpazQyxy27SPcWbiX7lBfQjRMmGU5gHu/i7YnR5FGGXCaMDtNqoDFU7/jSunum5Uj6IqDRZXQu/rm8vIsjy5GXe1JQTrs3+iZQAfVr8+qprF02Mlck8Dz+sDbG7xgcWxfUh1VgyFrd5sfX9LIw+rM36hVZU4VIcWvNTQRJU8TL8k4btvL1X/7JYlzbT0Kl6FNBDc8IZ1ye5X+WuqLXyCE1cNcgD1r+J2DM8IQJZFfEoTqV3ClNYhfQ8LJztCIN79tPscHWaASliZad/+Mpt6c1bAeqXzbUAMIynEEay86tjDDSXi3B+RZFt/bnaF2Q/yIG0BPI21S7W+8A2Rmqd/rSrW7MLs/8ksyVHTDAwNE9DohUXnwCioUEKF6YzhcQpslJmJTUe7XisUHe53e+TUVth1N2UtrRRhY9kNZPtn8vQf+AoIyDQwadrI+IuB9cAjC8qusuBHHRRfz+kV3f6KwUXFYI8J6hZJgMxB4PLv35VCoQLa3imftsOqWXZWNlFjw=
